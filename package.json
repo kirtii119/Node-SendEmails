@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "googleapis": "^105.0.0",
+    "nodemailer": "^6.9.2"
+  },
+  "name": "openinapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
